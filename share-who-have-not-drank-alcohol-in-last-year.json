@@ -1,0 +1,1094 @@
+[
+  {
+    "Entity": "Afghanistan",
+    "Code": "AFG",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 99.3
+  },
+  {
+    "Entity": "Albania",
+    "Code": "ALB",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 49
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 96.8
+  },
+  {
+    "Entity": "Andorra",
+    "Code": "AND",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 25.4
+  },
+  {
+    "Entity": "Angola",
+    "Code": "AGO",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 52.3
+  },
+  {
+    "Entity": "Antigua and Barbuda",
+    "Code": "ATG",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 50.6
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 32.6
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 74
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 20.6
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 21.9
+  },
+  {
+    "Entity": "Azerbaijan",
+    "Code": "AZE",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 78.1
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 56.2
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 91.2
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 97.8
+  },
+  {
+    "Entity": "Barbados",
+    "Code": "BRB",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 49.5
+  },
+  {
+    "Entity": "Belarus",
+    "Code": "BLR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 26.4
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 23.5
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 58.5
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 73.9
+  },
+  {
+    "Entity": "Bhutan",
+    "Code": "BTN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 70.4
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 54.6
+  },
+  {
+    "Entity": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 52.1
+  },
+  {
+    "Entity": "Botswana",
+    "Code": "BWA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 68
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 59.7
+  },
+  {
+    "Entity": "Brunei",
+    "Code": "BRN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 66.7
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 34
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 63.1
+  },
+  {
+    "Entity": "Burundi",
+    "Code": "BDI",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 68.4
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 69.1
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 35.5
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 62.4
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 77.6
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 32.4
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 44.1
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 61.7
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 95.9
+  },
+  {
+    "Entity": "Congo",
+    "Code": "COG",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 48.3
+  },
+  {
+    "Entity": "Cook Islands",
+    "Code": "COK",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 49.4
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 63.4
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 61.5
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 40.3
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 53.9
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 31.2
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 24.6
+  },
+  {
+    "Entity": "Democratic Republic of Congo",
+    "Code": "COD",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 63.6
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 25.6
+  },
+  {
+    "Entity": "Djibouti",
+    "Code": "DJI",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 80.3
+  },
+  {
+    "Entity": "Dominica",
+    "Code": "DMA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 54.8
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 57
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 53.5
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 97.2
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 70.6
+  },
+  {
+    "Entity": "Equatorial Guinea",
+    "Code": "GNQ",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 27.1
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 79.7
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 27.2
+  },
+  {
+    "Entity": "Eswatini",
+    "Code": "SWZ",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 71.2
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 77.4
+  },
+  {
+    "Entity": "Fiji",
+    "Code": "FJI",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 82.3
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 27.5
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 24.7
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 33.5
+  },
+  {
+    "Entity": "Gambia",
+    "Code": "GMB",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 73.3
+  },
+  {
+    "Entity": "Georgia",
+    "Code": "GEO",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 64.9
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 20.6
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 74
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 34.6
+  },
+  {
+    "Entity": "Grenada",
+    "Code": "GRD",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 50.4
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 72.7
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 78.4
+  },
+  {
+    "Entity": "Guinea-Bissau",
+    "Code": "GNB",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 71.2
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 60.9
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 64.9
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 70.2
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 33.4
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 28.5
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 61.2
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 77.3
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 96.5
+  },
+  {
+    "Entity": "Iraq",
+    "Code": "IRQ",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 96.9
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 18.7
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 45
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 32.2
+  },
+  {
+    "Entity": "Jamaica",
+    "Code": "JAM",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 65.1
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 43
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 97
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 60.1
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 76.1
+  },
+  {
+    "Entity": "Kiribati",
+    "Code": "KIR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 87.9
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 99.4
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 74.1
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 60
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 25
+  },
+  {
+    "Entity": "Lebanon",
+    "Code": "LBN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 93.9
+  },
+  {
+    "Entity": "Lesotho",
+    "Code": "LSO",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 82.2
+  },
+  {
+    "Entity": "Liberia",
+    "Code": "LBR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 69.2
+  },
+  {
+    "Entity": "Libya",
+    "Code": "LBY",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 99.9
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 20.9
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 8.2
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 79.1
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 76.3
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 70.4
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 92.1
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 78.1
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 37
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 99.1
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 68.8
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 57.3
+  },
+  {
+    "Entity": "Micronesia (country)",
+    "Code": "FSM",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 84.8
+  },
+  {
+    "Entity": "Moldova",
+    "Code": "MDA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 33.4
+  },
+  {
+    "Entity": "Mongolia",
+    "Code": "MNG",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 66.4
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 46
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 97.4
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 79
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 72.9
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 69.7
+  },
+  {
+    "Entity": "Nauru",
+    "Code": "NRU",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 78
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 72.9
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 27.9
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 25.4
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 67.5
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 79.8
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 47.4
+  },
+  {
+    "Entity": "Niue",
+    "Code": "NIU",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 66.8
+  },
+  {
+    "Entity": "North Korea",
+    "Code": "PRK",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 59.7
+  },
+  {
+    "Entity": "North Macedonia",
+    "Code": "MKD",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 46.3
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 21
+  },
+  {
+    "Entity": "Oman",
+    "Code": "OMN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 91.7
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 98.8
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 52.3
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 86.3
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 64
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 46.8
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 66.9
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 32
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 30.8
+  },
+  {
+    "Entity": "Qatar",
+    "Code": "QAT",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 54.4
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 32.8
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 41.9
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 65
+  },
+  {
+    "Entity": "Saint Kitts and Nevis",
+    "Code": "KNA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 45.2
+  },
+  {
+    "Entity": "Saint Lucia",
+    "Code": "LCA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 50.3
+  },
+  {
+    "Entity": "Saint Vincent and the Grenadines",
+    "Code": "VCT",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 53.4
+  },
+  {
+    "Entity": "Samoa",
+    "Code": "WSM",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 84
+  },
+  {
+    "Entity": "Sao Tome and Principe",
+    "Code": "STP",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 66
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 94.2
+  },
+  {
+    "Entity": "Senegal",
+    "Code": "SEN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 78.9
+  },
+  {
+    "Entity": "Serbia",
+    "Code": "SRB",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 40
+  },
+  {
+    "Entity": "Seychelles",
+    "Code": "SYC",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 45.1
+  },
+  {
+    "Entity": "Sierra Leone",
+    "Code": "SLE",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 69.1
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 30
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 69
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 36.1
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 31.4
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 71.3
+  },
+  {
+    "Entity": "Sudan",
+    "Code": "SDN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 97.7
+  },
+  {
+    "Entity": "Suriname",
+    "Code": "SUR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 57.8
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 27
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 18.8
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 98
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 79.3
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 63.6
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 59.1
+  },
+  {
+    "Entity": "Timor",
+    "Code": "TLS",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 78.4
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 74.3
+  },
+  {
+    "Entity": "Tonga",
+    "Code": "TON",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 85.8
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "Code": "TTO",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 41.3
+  },
+  {
+    "Entity": "Tunisia",
+    "Code": "TUN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 94.8
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 93.1
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 69.6
+  },
+  {
+    "Entity": "Tuvalu",
+    "Code": "TUV",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 85.6
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 63.7
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 38.2
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 81.5
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 26.6
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 28.3
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 31.1
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 79.2
+  },
+  {
+    "Entity": "Vanuatu",
+    "Code": "VUT",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 86.4
+  },
+  {
+    "Entity": "Venezuela",
+    "Code": "VEN",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 62
+  },
+  {
+    "Entity": "Yemen",
+    "Code": "YEM",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 99.3
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 72.7
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 2016,
+    "Indicator:Alcohol, abstainers past 12 months (%) - Sex:Both sexes": 82.4
+  }
+]
